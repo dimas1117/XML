@@ -1,0 +1,11 @@
+<?xml version ="1.0" encoding = "UTF-8"?>
+<about_me>
+	<FIO>
+		<name>Dmitriy</name>
+		<lastname>Dubrov</lastname>
+		<surname>Igorevich</surname>
+	</FIO>
+	<age>29</age>
+	<pets_quality>5</pets_quality>
+	<future_salary>1000</future_salary>
+</about_me>	
